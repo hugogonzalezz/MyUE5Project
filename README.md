@@ -1,6 +1,7 @@
 # Third-Person Horror Game - Unreal Engine 5
 
 I built a third-person horror game in Unreal Engine 5 as a passion project. This was an exciting challenge that allowed me to experiment with game mechanics, level design, and the overall workflow of Unreal Engine. Through this project, I gained hands-on experience with the engine's blueprint system, AI behavior trees, and environmental design to create an immersive horror experience.
+
 ![Image](https://github.com/user-attachments/assets/7998ab2c-16c5-4d71-bd6d-7bd52eded83a)
 
 
