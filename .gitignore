@@ -1,0 +1,17 @@
+# Ignore Unreal Engine build files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.log
+*.db
+*.exe
+*.dll
+*.app
+*.so
+*.dylib
+*.csproj
+*.xcodeproj
+
