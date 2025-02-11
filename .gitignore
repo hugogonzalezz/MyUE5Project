@@ -1,17 +1,9 @@
-# Ignore Unreal Engine build files
+# Ignore Unreal Engine auto-generated files
 Binaries/
-Build/
 DerivedDataCache/
 Intermediate/
 Saved/
 *.sln
-*.log
-*.db
-*.exe
-*.dll
-*.app
-*.so
-*.dylib
-*.csproj
-*.xcodeproj
-
+*.opensdf
+*.VC.db
+.vs/
